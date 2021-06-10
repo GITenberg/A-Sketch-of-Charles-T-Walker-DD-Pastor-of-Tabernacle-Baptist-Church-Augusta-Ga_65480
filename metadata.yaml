@@ -1,5 +1,8 @@
 _repo: A-Sketch-of-Charles-T-Walker-DD-Pastor-of-Tabernacle-Baptist-Church-Augusta-Ga_65480
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65480-h/images/cover.jpg
 creator:
   author:
     agent_name: Floyd, Silas Xavier
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50795
     wikipedia: https://en.wikipedia.org/wiki/Silas_X._Floyd
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65480#A-Sketch-of-Charles-T-Walker-DD-Pastor-of-Tabernacle-Baptist-Church-Augusta-Ga
 gutenberg_issued: '2021-05-31'
 gutenberg_type: Text
 identifiers:
